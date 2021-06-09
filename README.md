@@ -16,7 +16,9 @@ This is a project of Alogorithmic trading to predict Openstock price build by NA
 8. click the submit button to get the estimated stock prices of the selected stocks.
 
 9. This flask application contains an api you test it in testing enviromment by using below urls.
-	"http://127.0.0.1:5000/prediction/<stock symbol>".
+
+	"http://127.0.0.1:5000/prediction/<stock_symbol>".
+
 	here stock symbol name is the official name of the company from yaahoo finance.
  
 
